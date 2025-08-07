@@ -86,7 +86,7 @@ CUDA_VISIBLE_DEVICES=0 nohup /home/your_username/anaconda3/envs/sc2/bin/python3 
 ### 🌎 SMAC Maps
 The visualization of our adopted SMAC multi-agent task scenarios.
 
-<p align="center">
+<p align="left">
   <img src="./sources/SMACmaps.png" width="400" alt="SMAC maps">
 </p>
 
